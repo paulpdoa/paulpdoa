@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpdoa
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning sass and redux
+- 🌱 I’m currently learning more about React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me on Facebook
 
